@@ -1,7 +1,7 @@
-# Frontend Mentor - Stats preview card component main
+ # 📚 Frontend Mentor - Stats preview card component main
 
-Esta é uma solução para o desafio do Frontend Mentor (plataforma online que oferece desafios de codificação). <br> [Stats preview card component main challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub). 
-<br> Participar dos desafios do Frontend Mentor é uma excelente forma de aprimorar minhas habilidades de programação, pois eles proporcionam a oportunidade de criar projetos realistas.
+Esta é uma solução para o desafio do Frontend Mentor (plataforma online que oferece desafios de codificação). <br> [Stats preview card component main challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub). 🤓 
+<br> Participar dos desafios do Frontend Mentor é uma excelente forma de aprimorar minhas habilidades de programação, pois eles proporcionam a oportunidade de criar projetos realistas. 🚀
 
 ## Índice
 
